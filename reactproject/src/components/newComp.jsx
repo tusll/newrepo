@@ -2,6 +2,6 @@ import React from 'react'
 
 export const newComp = () => {
   return (
-    <div>newComp</div>
+    <div>Add new comp</div>
   )
 }
